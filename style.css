@@ -1,0 +1,49 @@
+* {
+  font-family: Montserrat, sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+main {
+  text-align: center;
+}
+
+.game_box {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  height: 10rem;
+  width: 10rem;
+  border: 0.5rem solid black;
+  border-radius: 20%;
+  margin: 0.5rem;
+}
+
+.red {
+  background-color: #ff4757;
+}
+
+.yellow {
+  background-color: #ffa502;
+}
+
+.green {
+  background-color: #2ed573;
+}
+
+.blue {
+  background-color: #1e90ff;
+}
+
+.gameFlash {
+  background-color: white;
+}
+
+.userFlash {
+  background-color: darkgreen;
+}
